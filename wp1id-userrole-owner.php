@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: User Role Owner
- * Plugin URI: https://1idweb.com/products/wordpress-plugin/wp1id-userrole-owner
+ * Plugin URI: https://github.com/1idweb/wp1id-userrole-owner/
  * Description: Adds an `Owner` user role.
  * Version: 1.0
  * Author: 1idweb
