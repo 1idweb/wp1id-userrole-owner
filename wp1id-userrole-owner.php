@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name:   User Role Owner
- * Plugin URI:    https://github.com/1idweb/wp1id-userrole-owner/
- * Description:   Adds an `Owner` user role.
- * Author:        1idweb
- * Author URI:    https://1idweb.com
- * Text Domain:   userrole-owner
- * Domain Path:   /languages
+ * Plugin Name: 1id. User Role Owner
+ * Plugin URI:  https://github.com/1idweb/wp1id-userrole-owner/
+ * Description: Adds an `Owner` user role.
+ * Author:      1idweb
+ * Author URI:  https://1idweb.com
+ * Text Domain: userrole-owner
+ * Domain Path: /languages
  */
 
 
