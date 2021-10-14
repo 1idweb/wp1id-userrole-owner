@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: User Role Owner
- * Plugin URI: https://github.com/1idweb/wp1id-userrole-owner/
- * Description: Adds an `Owner` user role.
- * Version: 1.0
- * Author: 1idweb
- * Author URI: https://1idweb.com
- * License: GPL2
+ * Plugin Name:   User Role Owner
+ * Plugin URI:    https://github.com/1idweb/wp1id-userrole-owner/
+ * Description:   Adds an `Owner` user role.
+ * Author:        1idweb
+ * Author URI:    https://1idweb.com
+ * Text Domain:   userrole-owner
+ * Domain Path:   /languages
  */
 
 
@@ -16,7 +16,7 @@
  */
 add_role(
 	'Owner',
-	__( 'Owner', 'wp1id userrole owner' ),
+	__( 'Owner', 'userrole-owner' ),
 	array(
         // Editor’s capabilities
         'delete_others_pages'   => true,
